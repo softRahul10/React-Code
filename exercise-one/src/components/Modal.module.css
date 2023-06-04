@@ -1,0 +1,15 @@
+.modal {
+      background-color: #000;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      z-index: 1000;
+}
+
+.modal-content {
+      background-color: #fff;
+      padding: 1rem 2rem;
+      border-radius: 1rem;
+}
